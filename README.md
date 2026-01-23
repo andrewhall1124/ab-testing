@@ -36,3 +36,5 @@ Note: all of the necessary dependencies are installed on start up because of the
 ```bash
 uv run marimo edit --sandbox notebook.py
 ```
+
+To view the static notebook as a .ipynb file on github click [here](__marimo__/notebook.ipynb).
